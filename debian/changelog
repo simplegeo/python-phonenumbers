@@ -1,3 +1,9 @@
+python-phonenumbers (3.7b1-0sg1) maverick; urgency=low
+
+  * UNRELEASED
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Fri, 29 Jul 2011 21:47:13 +0000
+
 python-phonenumbers (3.7b1-0sg0) foss-development; urgency=low
 
   * Packaged.
