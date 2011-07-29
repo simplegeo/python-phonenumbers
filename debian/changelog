@@ -1,3 +1,12 @@
+python-phonenumbers (3.7b1-0sg8) maverick; urgency=low
+
+  [ Ian Eure ]
+  * Fix wrong section.
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Fri, 29 Jul 2011 22:53:10 +0000
+
 python-phonenumbers (3.7b1-0sg7) maverick; urgency=low
 
   [ Ian Eure ]
