@@ -9,3 +9,6 @@ include /usr/share/cdbs/1/class/python-distutils.mk
 
 
 # Add here any variable or target overrides you need.
+
+install/python-phonenunbers::
+	cd $(DEB_SRCDIR) && python setup.py test
