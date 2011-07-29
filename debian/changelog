@@ -1,0 +1,5 @@
+python-phonenumbers (3.8b1-0sg0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Ian Eure <ian@simplegeo.com>  Fri, 29 Jul 2011 21:01:55 +0000
