@@ -1,3 +1,12 @@
+python-phonenumbers (3.7b1-0sg7) maverick; urgency=low
+
+  [ Ian Eure ]
+  * Run tests in package build.
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Fri, 29 Jul 2011 22:07:29 +0000
+
 python-phonenumbers (3.7b1-0sg2) maverick; urgency=low
 
   * UNRELEASED
