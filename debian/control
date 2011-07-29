@@ -1,5 +1,5 @@
 Source: python-phonenumbers
-Section: unknown
+Section: python
 Priority: extra
 Maintainer: Ian Eure <ian@simplegeo.com>
 Build-Depends: cdbs,
